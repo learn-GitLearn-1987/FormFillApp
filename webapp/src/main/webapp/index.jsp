@@ -2,12 +2,19 @@
   <div class="container">
     <h1>Welcome!! Saidemy student anurag mani  DevOps Student Registration Form!!</h1>
     <p>Please fill in this form!</p>
+ 
+
     <hr>
     <br>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
+
+    <label for="myname"><b>MyLocal</b></label>
+    <input type="text" placeholder="Enter locaL" name="email" id="email" required>
+    <br>
+
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
@@ -24,4 +31,4 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-</form>
+i</form>
