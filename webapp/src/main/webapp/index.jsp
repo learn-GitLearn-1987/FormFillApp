@@ -19,6 +19,10 @@
     <input type="text" placeholder="Enter locaL" name="email" id="email" required>
     <br>
 
+    <label for="myname"><b>MyTestLocal</b></label>
+    <input type="text" placeholder="Enter locaL" name="email" id="email" required>
+    <br>
+
 
 
     <label for="psw"><b>Password</b></label>
